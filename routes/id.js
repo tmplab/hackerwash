@@ -1,4 +1,4 @@
-
+/*
 Router.route('/:_id', {
     name: 'viewGame',
     controller: 'GameController',
@@ -7,3 +7,4 @@ Router.route('/:_id', {
 });
 
 
+*/
