@@ -4,7 +4,7 @@ IndexController = RouteController.extend({
     subscriptions: function() {
     },
 
-    action: function() {
+    index: function() {
 	this.render('Index');
     }
 });

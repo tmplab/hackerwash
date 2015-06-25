@@ -7,7 +7,7 @@ Router.configure({
 Router.route('/', {
     name: 'index',
     controller: 'IndexController',
-    action: 'action',
+    action: 'index',
     where: 'client'
 });
 
