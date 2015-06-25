@@ -11,3 +11,7 @@ iron:router
 accounts-ui
 accounts-password
 accounts-base
+accounts-google
+accounts-facebook
+accounts-twitter
+accounts-github
